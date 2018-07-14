@@ -1805,7 +1805,29 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #5385c1;
+			<!-- background: #53c1ab; responsible for blue background in section two-->
+			padding: 12em 0 10em 0;
+			background-image: url('../../images/toyTeeth.jpg');
+			background-image: rgba(75, 75, 93, 0.6);
+			background-size: cover;
+			background-position: top;
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			text-align: center;
+			color: #bacee6;
+		}
+		section.wrapper.style2, article.wrapper.style1 {
+			<!-- background: #53c1ab; responsible for blue background in section two-->
+			padding: 12em 0 10em 0;
+			background-image: url('../../images/cleanLiquid.jpg');
+			background-image: rgba(75, 75, 93, 0.6);
+			background-size: cover;
+			background-position: top;
+			background-attachment: fixed;
+			background-repeat: no-repeat;
+			text-align: center;
+			border-top: 0.5em solid #001a33;
+			border-bottom: 0.5em solid #001a33;
 			color: #bacee6;
 		}
 
@@ -2941,7 +2963,6 @@
 		background-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		border-top: 0.5em solid #5385c1;
 	}
 
 		#banner h1 {
@@ -3031,7 +3052,7 @@
 				text-decoration: underline;
 			}
 
-	#footer ul.icons li .icon {
+		#footer ul.icons li .icon {
 		font-size: 0.58em;
 	}
 
@@ -3049,13 +3070,6 @@
 			order: 2;
 		}
 
-		#footer ul {
-			-ms-flex-order: 1;
-			-moz-order: 1;
-			-webkit-order: 1;
-			-ms-order: 1;
-			order: 1;
-		}
 
 		#footer .flex {
 			-moz-flex-direction: column;
