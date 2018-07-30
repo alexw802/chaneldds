@@ -3070,6 +3070,13 @@
 			order: 2;
 		}
 
+		#footer ul {
+			-ms-flex-order: 1;
+			-moz-order: 1;
+			-webkit-order: 1;
+			-ms-order: 1;
+			order: 1;
+		}
 
 		#footer .flex {
 			-moz-flex-direction: column;
