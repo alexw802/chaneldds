@@ -2806,7 +2806,7 @@
 			}
 
 				#header a.navPanelToggle .fa {
-					font-size: 1.25em;
+					font-size: 1.25em; <!-- doesnt change right nav bar font -->
 				}
 
 				@media screen and (max-width: 980px) {
@@ -2955,7 +2955,7 @@
 /* Banner */
 
 	#banner {
-		padding: 12em 0 10em 0;
+		padding: 12em 0 12em 0;
 		background-image: url('../../images/bannerFade.png');
 		background-image: rgba(75, 75, 93, 0.6);
 		background-size: cover;
