@@ -2958,7 +2958,7 @@
 
 	#banner {
 		padding: 12em 0 12em 0;
-		background-image: url('../../images/bannerFade.png');
+		background-image: url('../../images/bannerFade_comp.png');
 		background-image: rgba(75, 75, 93, 0.6);
 		background-size: cover;
 		background-position: top;
