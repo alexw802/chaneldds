@@ -1807,8 +1807,8 @@
 
 		section.wrapper.style1, article.wrapper.style1 {
 			<!-- background: #53c1ab; responsible for blue background in section two-->
-			padding: 12em 0 10em 0;
-			background-image: url('../../images/toyTeeth.jpg');
+			padding: 12em 0 40em 0;
+			background-image: url('../../images/brushSimple.jpg');
 			background-image: rgba(75, 75, 93, 0.6);
 			background-size: cover;
 			background-position: top;
@@ -1817,7 +1817,7 @@
 			text-align: center;
 			color: #bacee6;
 		}
-		section.wrapper.style2, article.wrapper.style1 {
+		/* section.wrapper.style2, article.wrapper.style1 {
 			<!-- background: #53c1ab; responsible for blue background in section two-->
 			padding: 12em 0 10em 0;
 			background-image: url('../../images/cleanLiquid.jpg');
@@ -1830,7 +1830,7 @@
 			border-top: 0.5em solid #001a33;
 			border-bottom: 0.5em solid #001a33;
 			color: #bacee6;
-		}
+		} */
 
 			section.wrapper.style1 header h2, article.wrapper.style1 header h2 {
 				color: #fff;
