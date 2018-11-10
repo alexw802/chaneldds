@@ -1807,7 +1807,7 @@
 
 		section.wrapper.style1, article.wrapper.style1 {
 			<!-- background: #53c1ab; responsible for blue background in section two-->
-			padding: 12em 0 40em 0;
+			padding: 12em 0 10em 0;
 			background-image: url('../../images/brushSimple.jpg');
 			background-image: rgba(75, 75, 93, 0.6);
 			background-size: cover;
