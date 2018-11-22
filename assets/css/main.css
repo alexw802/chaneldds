@@ -2516,6 +2516,8 @@
 		overflow-x: auto;
 	}
 
+	tr:hover {background-color: #d4e0ef;}
+
 	table {
 		margin: 0 0 2em 0;
 		width: 100%;
@@ -2527,9 +2529,9 @@
 			border-right: 0;
 		}
 
-			table tbody tr:nth-child(2n + 1) {
+			/* table tbody tr:nth-child(2n + 1) {
 				background-color: rgba(144, 144, 144, 0.075);
-			}
+			} */
 
 		table td {
 			padding: 0.75em 0.75em;
